@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Du-Camera</string>
+    <string name="btnCapture">Çek</string>
+    <string name="btnCamera">Camera</string>
+    <string name="btnCamera2">Camera2</string>
+    <string name="btnCapture2Content">Camera2 Api Capture Image</string>
+    <string name="btnOpenCvCamera">OpenCvCamera</string>
+    <string name="request_permission">Error</string>
+    <string name="camera_error">Camera error</string>
+    <string name="intro_message">Girşşşş</string>
+    <string name="picture">pictue</string>
+    <string name="description_info">info</string>
+    <string name="btnCamera2v2">Camera</string>
+</resources>
