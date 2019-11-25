@@ -6,8 +6,8 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->C:\Users\DURSUN\AndroidStudioProjects\DuCamera\openCVLibrary343\src\main\AndroidManifest.xml
+8-->C:\Users\DURSUN\Documents\GitHub\Du-Camera\openCVLibrary343\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\DURSUN\AndroidStudioProjects\DuCamera\openCVLibrary343\src\main\AndroidManifest.xml
+9-->C:\Users\DURSUN\Documents\GitHub\Du-Camera\openCVLibrary343\src\main\AndroidManifest.xml
 10
 11</manifest>
